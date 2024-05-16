@@ -1,0 +1,11 @@
+span{
+    font-style: italic;
+    color: black;
+    font-weight: bold;
+}
+footer {
+    background-color: #6bcacd;
+    text-align: center;
+    padding: 10px 0;
+    border-top: 1px solid #e7e7e7;
+}
